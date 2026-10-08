@@ -1,6 +1,6 @@
 # AAES
 
-**Enterprise AI agent operations and governance.**
+**The governance and operating layer for enterprise AI agents.**
 
 AAES (Autonomous Agentic Enterprise Systems) makes two self-hosted products for enterprise AI agents. **AAES Operate** runs and coordinates agents on your infrastructure. **AAES Govern** checks and records supported actions routed through it. Use either product, or both.
 
