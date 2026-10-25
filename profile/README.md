@@ -2,26 +2,17 @@
 
 **The operating and governance layer for enterprise AI agents.**
 
-AAES (Autonomous Agentic Enterprise Systems) makes two self-hosted products for enterprise AI agents. **AAES Operate** runs and coordinates agents on your infrastructure. **AAES Govern** checks and records supported actions routed through it. Use either product, or both.
+AAES (Autonomous Agentic Enterprise Systems) is the operating and governance layer for enterprise AI agents. Our mission is to help companies achieve real, measurable impact from AI by providing the infrastructure to infer intelligence, operate workflows, and control autonomous execution.
+
+- **AAES Infer:** Model access with jurisdiction controls and central company billing. Each offer defines the qualified processing boundary and terms that prohibit training and secondary reuse of prompts and outputs.
+- **AAES Operate:** Embed agents into your organization, coordinate projects and tasks, and review their progress.
+- **AAES Govern:** Check permissions, required approvals, and spending limits before authorizing supported actions routed through Govern, then record each completed decision.
+
+Use Operate and Govern separately or together, on your infrastructure or hosted by AAES.
+
+**Autonomy. With Accountability.**
 
 [Explore AAES](https://aaes.ai/) · [Request an evaluation](https://aaes.ai/contact.html) · [Developer docs](https://aaes.ai/developers.html)
-
-## AAES Operate
-
-Run agent teams on your infrastructure with reporting lines, projects and a shared task board, a versioned skills library, connected tools, and recurring work. Choose models and runtimes for your agents.
-
-Operate has its own approval steps, tool permissions, budgets, configuration history, and stop controls. Budgets pause work once recorded spend reaches a limit; in-flight work can overrun. You operate the infrastructure, keys, model-provider accounts, availability, and backups. Operate sends instructions, task context, and tool results to the model providers and runtimes you configure.
-
-## AAES Govern
-
-Connect agents you already run and check supported actions routed through Govern:
-
-- **Permissions:** give each registered agent an accountable human manager and permission for specific capabilities.
-- **Approvals:** require an authorized person's approval for capabilities registered as irreversible, bound to the exact request on enforced paths.
-- **Spending reservations:** reserve evaluated amounts before authorization and refuse requests above configured limits. Final provider charges can differ.
-- **Signed decision records:** export records and check their integrity offline using separately trusted public keys.
-
-Govern can block an action when it controls the required credentials and the agent cannot bypass that path. Observation-only registrations record reported activity without stopping calls. Govern applies only to supported actions routed through it. Combined Operate–Govern workflow coverage is evaluated during the design partnership.
 
 ## Start with the public verifier
 
