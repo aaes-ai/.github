@@ -1,7 +1,6 @@
 # Autonomous Agentic Enterprise Systems (AAES)
 
-## Let AI agents work.
-Keep your staff in control.
+## Let AI agents work.<br>Keep your staff in control.
 
 **The operating and governance layer for your AI workforce**
 
