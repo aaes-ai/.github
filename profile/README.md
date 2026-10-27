@@ -1,8 +1,11 @@
 # Autonomous Agentic Enterprise Systems (AAES)
 
-**The operating and governance layer for enterprise AI agents.**
+## Let AI agents work.
+Keep your staff in control.
 
-AAES (Autonomous Agentic Enterprise Systems) is the operating and governance layer for enterprise AI agents. Our mission is to help companies achieve real, measurable impact from AI by providing the infrastructure to infer intelligence, operate workflows, and control autonomous execution.
+**The operating and governance layer for your AI workforce**
+
+AAES (Autonomous Agentic Enterprise Systems) is the operating and governance layer for your AI workforce. Our mission is to help companies achieve real, measurable impact from AI by providing the infrastructure to infer intelligence, operate workflows, and control autonomous execution.
 
 - **AAES Infer:** Model access with jurisdiction controls and central company billing. Each offer defines the qualified processing boundary and terms that prohibit training and secondary reuse of prompts and outputs.
 - **AAES Operate:** Embed agents into your organization, coordinate projects and tasks, and review their progress.
