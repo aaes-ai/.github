@@ -1,4 +1,4 @@
-# Welcome to Autonomous Agentic Enterprise Systems (AAES)
+# Autonomous Agentic Enterprise Systems (AAES)
 
 ## Let AI agents work. Keep your staff in control.
 
